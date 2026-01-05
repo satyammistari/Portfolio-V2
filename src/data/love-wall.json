@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "src": "/family1.jpg",
+    "alt": "Family moments",
+    "caption": "Together we rise ✨"
+  },
+  {
+    "id": 2,
+    "src": "/family2.jpg",
+    "alt": "Family love",
+    "caption": "My strength, my home 💛"
+  },
+  {
+    "id": 3,
+    "src": "/family3.jpg",
+    "alt": "Family forever",
+    "caption": "Forever grateful 🌟"
+  }
+]

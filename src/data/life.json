@@ -1,0 +1,126 @@
+{
+  "books": [
+    {
+      "title": "The Bhagavad Gita",
+      "author": "Vyasa",
+      "category": "Philosophy",
+      "year": "Ancient",
+      "rating": 5,
+      "coverImage": "/books/bhagavad-gita.jpg",
+      "description": "A 700-verse Hindu scripture that is part of the epic Mahabharata, dated to the second half of the first millennium BCE and is typical of the Hindu synthesis.",
+      "keyTakeaways": [
+        "Duty without attachment to results",
+        "The nature of consciousness",
+        "Path to self-realization"
+      ],
+      "link": "https://www.amazon.com/Bhagavad-Gita-As-It-Is/dp/0892131446"
+    },
+    {
+      "title": "Deep Learning",
+      "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+      "category": "Technical",
+      "year": "2016",
+      "rating": 5,
+      "coverImage": "/books/deep-learning.jpg",
+      "description": "An introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry.",
+      "keyTakeaways": [
+        "Fundamentals of neural networks",
+        "Advanced optimization techniques",
+        "Modern deep learning architectures"
+      ],
+      "link": "https://www.deeplearningbook.org/"
+    },
+    {
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "category": "Business",
+      "year": "2014",
+      "rating": 5,
+      "coverImage": "/books/hard-things.jpg",
+      "description": "Building a business when there are no easy answers. Ben Horowitz offers essential advice on building and running a startup—practical wisdom for managing the toughest problems business school doesn't cover.",
+      "keyTakeaways": [
+        "Embrace the struggle of entrepreneurship",
+        "Make decisions with incomplete information",
+        "Focus on what you need to do, not what you want to do"
+      ],
+      "link": "https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205"
+    },
+    {
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "category": "Business",
+      "year": "2014",
+      "rating": 5,
+      "coverImage": "/books/zero-to-one.jpg",
+      "description": "Notes on startups, or how to build the future. Peter Thiel reveals how we can find singular ways to create those new things that will make the future not just different, but better.",
+      "keyTakeaways": [
+        "Create new value, don't compete in existing markets",
+        "Monopoly businesses capture lasting value",
+        "Technology is about creating the future"
+      ],
+      "link": "https://www.amazon.com/Zero-to-One-Notes-Startups/dp/0804139296"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Interstellar",
+      "director": "Christopher Nolan",
+      "year": "2014",
+      "genre": "Sci-Fi",
+      "rating": 5,
+      "posterImage": "/movies/interstellar.jpg",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "themes": [
+        "Time relativity",
+        "Human survival",
+        "Love transcends dimensions"
+      ],
+      "imdbLink": "https://www.imdb.com/title/tt0816692/"
+    },
+    {
+      "title": "The Social Network",
+      "director": "David Fincher",
+      "year": "2010",
+      "genre": "Biography/Drama",
+      "rating": 5,
+      "posterImage": "/movies/social-network.jpg",
+      "description": "The story of Facebook's founding and the lawsuits that followed, exploring ambition, betrayal, and innovation.",
+      "themes": [
+        "Tech entrepreneurship",
+        "Ambition and ethics",
+        "Social impact of technology"
+      ],
+      "imdbLink": "https://www.imdb.com/title/tt1285016/"
+    },
+    {
+      "title": "3 Idiots",
+      "director": "Rajkumar Hirani",
+      "year": "2009",
+      "genre": "Comedy/Drama",
+      "rating": 5,
+      "posterImage": "/movies/3-idiots.jpg",
+      "description": "Two friends embark on a quest for a lost buddy. On this journey, they encounter a long-forgotten bet, a wedding they must crash, and a funeral that goes impossibly out of control.",
+      "themes": [
+        "Education system critique",
+        "Following your passion",
+        "True friendship"
+      ],
+      "imdbLink": "https://www.imdb.com/title/tt1187043/"
+    },
+    {
+      "title": "Her",
+      "director": "Spike Jonze",
+      "year": "2013",
+      "genre": "Romance/Sci-Fi",
+      "rating": 5,
+      "posterImage": "/movies/her.jpg",
+      "description": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+      "themes": [
+        "AI and consciousness",
+        "Human connection",
+        "Technology and loneliness"
+      ],
+      "imdbLink": "https://www.imdb.com/title/tt1798709/"
+    }
+  ]
+}
