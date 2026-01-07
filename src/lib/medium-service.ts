@@ -29,9 +29,9 @@ export interface BlogItem {
  */
 export async function fetchMediumPosts(): Promise<BlogItem[]> {
   try {
-    // Get Medium username from environment variable
-    const mediumUsername = process.env.MEDIUM_USERNAME || 'YOUR_MEDIUM_USERNAME';
-    const rssFeedUrl = `https://medium.com/feed/${mediumUsername}`;
+    // Replace with your Medium username
+    const mediumUsername = '@mistarisatyam';
+    const rssFeedUrl = `https://medium.com/feed/@${mediumUsername}`;
     const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssFeedUrl)}`;
     
     const response = await fetch(apiUrl, {

@@ -299,7 +299,7 @@ export default async function Page() {
         <section className="pt-12 border-t border-white/10">
           <div className="text-center space-y-4">
             <p className="text-xs text-white/50 italic max-w-2xl mx-auto leading-relaxed">
-              "You have the right to work, but never to the fruit of work. You should never engage in action for the sake of reward, nor should you long for inaction."
+              &ldquo;You have the right to work, but never to the fruit of work. You should never engage in action for the sake of reward, nor should you long for inaction.&rdquo;
               <br />
               <span className="text-white/40">— Bhagavad Gita 2.47</span>
             </p>
